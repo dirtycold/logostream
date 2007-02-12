@@ -1,11 +1,9 @@
-#summary One-sentence summary of this page.
 #labels Phase-Implementation
+#A simple C++ output stream for logging to the syslog system.
 
 = Introduction =
 
-A simple C++ output stream for logging to syslog system.
 Before open and after close the stream output to the std::clog
-
 
 = Details =
 
@@ -32,7 +30,6 @@ int main ()
 Thanks for use, enjoy!
 My homepage
 http://www.andr.ru/
-
 
 
 
